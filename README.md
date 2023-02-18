@@ -1,6 +1,5 @@
 ### Hi, I’m Linus
 - I’m interested in Linux, bash, C, C++, python and riceing!
-- I’m currently learning lua.
 - How to reach me ... just don't.
 
 <!---
