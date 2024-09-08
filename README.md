@@ -1,5 +1,5 @@
 ### Hi, I’m Linus
-- I’m interested in Linux, bash, C, C++, python and riceing!
+- I’m interested in Linux, bash, C, rust and riceing!
 - How to reach me ... just don't.
 
 <!---
